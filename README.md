@@ -1,2 +1,2 @@
 # Mix
-ox-box mix casino,mining
+ox-box mix game,mining
